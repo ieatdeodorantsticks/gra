@@ -1,0 +1,14 @@
+D:\c#\gra\gra\obj\Debug\net9.0\gra.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\gra\gra\bin\Debug\net9.0\gra.exe
+D:\c#\gra\gra\bin\Debug\net9.0\gra.deps.json
+D:\c#\gra\gra\bin\Debug\net9.0\gra.runtimeconfig.json
+D:\c#\gra\gra\bin\Debug\net9.0\gra.dll
+D:\c#\gra\gra\bin\Debug\net9.0\gra.pdb
+D:\c#\gra\gra\obj\Debug\net9.0\gra.AssemblyInfoInputs.cache
+D:\c#\gra\gra\obj\Debug\net9.0\gra.AssemblyInfo.cs
+D:\c#\gra\gra\obj\Debug\net9.0\gra.csproj.CoreCompileInputs.cache
+D:\c#\gra\gra\obj\Debug\net9.0\gra.dll
+D:\c#\gra\gra\obj\Debug\net9.0\refint\gra.dll
+D:\c#\gra\gra\obj\Debug\net9.0\gra.pdb
+D:\c#\gra\gra\obj\Debug\net9.0\gra.genruntimeconfig.cache
+D:\c#\gra\gra\obj\Debug\net9.0\ref\gra.dll
