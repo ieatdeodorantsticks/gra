@@ -9,7 +9,7 @@ List<Potwor> potwory = new List<Potwor>{
     new Potwor("Smok", 50, 20),
     new Potwor("Szczur", 4, 1),
     new Potwor("Karzel", 10, 4),
-    new Potwor("Bezdomny czarodziej posiadający HIV", 25, 10),
+    new Potwor("Bezdomny czarodziej", 25, 10),
     new Potwor("Lebron James", 70, 25)
 };
 
